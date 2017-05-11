@@ -1,2 +1,3 @@
-# Ionic-GoogleMap
+# Ionic-GoogleMaps
+
 Google Maps in Ionic
